@@ -1,0 +1,30 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-05-16 21:20-0300\n"
+"PO-Revision-Date: 2013-05-16 21:20-0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#.         File: en.tex
+#.      Created: Qui Mai 16 09:00  2013 B
+#.  Last Change: Qui Mai 16 09:00  2013 B
+#. type: document
+#: en.tex:8
+msgid "This is a test"
+msgstr "Isto  um teste"
+
+#. type: document
+#: en.tex:11
+msgid "You don't need to write the translated documents by hand"
+msgstr "Voc no precisa escrever o documento traduzido na mo"
